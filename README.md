@@ -29,7 +29,7 @@ fred_key = 'b2e2ce0707e5200f8e4ed4e725d5a257'
 fred = Fred(api_key=fred_key)
 ```
 
-<>bSearch FRED for 30-Year Mortgage Data</b>
+<b>Search FRED for 30-Year Mortgage Data</b>
 
 1. Search FRED for "mortgage rate" data and output results to dataframe.
 ```
